@@ -20,9 +20,6 @@ public class Main
             System.out.println("NAme = " +user.getName());
             System.out.println("Age = " +user.getAge());
 
-            //ageVerification.isValidAge(user,user.getAge());
-            //System.out.println("Name: " +user.getName());
-            //System.out.println("Age = " +user.getAge());
 
         }
         catch (InvalidAgeException e)
